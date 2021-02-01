@@ -6,6 +6,7 @@
 > To run this program, first create a virtualenv
 ```bash
 virtualenv -p /usr/bin/python3.9 ./venv
+source ./venv/bin/activate
 ```
 > Then run:
 ```bash
